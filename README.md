@@ -1,0 +1,2 @@
+# STM32_Studying
+学习了B站up主江协科技的网课，很有启发，根据STM32F103C8T6的课程学习，使用Keil5软件，尝试编写了STM32F103ZET6的代码
